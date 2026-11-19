@@ -24,3 +24,4 @@ AI and software engineering student focused on building practical machine learni
 
 - [GitHub](https://github.com/Tienledaithandong)
 - [Portfolio](https://Tienledaithandong.github.io)
+- [ORCID](https://orcid.org/0009-0002-7633-646X)
