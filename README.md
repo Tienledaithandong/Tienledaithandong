@@ -1,13 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tien+Lee+%F0%9F%91%8B;AI+Researcher+%7C+HCMUT+CS;Agentic+VLM+%2B+Reinforcement+Learning" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tien%20Lee&fontSize=58&fontAlignY=38&desc=AI%20Researcher%20%7C%20HCMUT%20Computer%20Science&descAlignY=58&descSize=18&color=0:0B1020,100:0F4C81&fontColor=FFFFFF&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&center=true&vCenter=true&width=820&lines=Agentic+Vision-Language+Models;Reinforcement+Learning;Machine+Learning+Research;Competitive+Programming" />
+</div>
 
 <p align="center">
-  <strong>Third-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT)</strong>
-</p>
-
-<p align="center">
-  I build and research AI systems — with a particular interest in <strong>agentic vision-language models</strong>, <strong>reinforcement learning</strong>, and <strong>machine learning experimentation</strong>. Competitive programming keeps my problem-solving mindset sharp.
+  <b>Third-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT)</b><br/>
+  I research and build intelligent systems across agentic VLMs, reinforcement learning, and machine learning experimentation.
 </p>
 
 <div align="center">
@@ -20,44 +21,70 @@
   <a href="https://orcid.org/0009-0002-7633-646X">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Tienledaithandong&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 </div>
 
----
+<br/>
 
-## Research Interests
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="28"/> Research Focus
 
-- Vision-Language Models and Agentic AI
-- Reinforcement Learning
-- Representation Learning and Model Reasoning
-- Reproducible Machine Learning Experiments
-- AI Evaluation and Benchmarking
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Vision-Language Agents</h3>
+      Connecting visual perception, language reasoning, and autonomous action.
+    </td>
+    <td width="50%">
+      <h3>Reinforcement Learning</h3>
+      Studying decision-making, reward design, and learning dynamics.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Machine Learning Science</h3>
+      Building reproducible experiments with careful evaluation and analysis.
+    </td>
+    <td>
+      <h3>Competitive Programming</h3>
+      Algorithms, data structures, and fast, reliable problem solving.
+    </td>
+  </tr>
+</table>
 
-## Research & AI Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> Selected Work
 
-| Project | Area |
-|---|---|
-| [**Name That LLM**](https://github.com/Tienledaithandong/Name-the-LLM) | CPU-efficient authorship attribution across 18 language models |
-| [**Viettel AI Race**](https://github.com/Tienledaithandong/Tien_viettel_ai_race) | AI for free-form Vietnamese clinical text and medical concept reasoning |
-| [**AI City Track 5**](https://github.com/Tienledaithandong/AI_CITY_TRACK5_2026) | Computer vision and intelligent traffic analysis |
-| [**Quantize**](https://github.com/Tienledaithandong/quantize) | Model quantization experiments |
+| Project | Research Area | Description |
+|---|---|---|
+| [**Name That LLM**](https://github.com/Tienledaithandong/Name-the-LLM) | Language Model Analysis | CPU-efficient authorship attribution across 18 language models |
+| [**Viettel AI Race**](https://github.com/Tienledaithandong/Tien_viettel_ai_race) | Clinical NLP | Vietnamese free-form medical text analysis and concept reasoning |
+| [**AI City Track 5**](https://github.com/Tienledaithandong/AI_CITY_TRACK5_2026) | Computer Vision | Intelligent traffic and city analysis research |
+| [**Quantize**](https://github.com/Tienledaithandong/quantize) | Model Efficiency | Model quantization and compression experiments |
 
-## Technical Toolbox
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28"/> Research Stack
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tienledaithandong&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tienledaithandong&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,numpy,opencv,sklearn,git,github,bash&theme=dark" />
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tienledaithandong&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tienledaithandong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <em>Learning by building, measuring, and reasoning.</em>
+  <img src="https://streak-stats.demolab.com?user=Tienledaithandong&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tienledaithandong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tienledaithandong&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B1020,100:0F4C81" />
+</div>
